@@ -9,6 +9,7 @@ opt_in_rules:
   - collection_alignment
 
 disabled_rules:
+  - type_name
   - identifier_name
   - line_length
   - file_length
