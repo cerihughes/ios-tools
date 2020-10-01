@@ -1,0 +1,14 @@
+excluded:
+  - Carthage
+  - SPM
+  - .build
+
+opt_in_rules:
+  - empty_count
+  - anyobject_protocol
+  - collection_alignment
+
+disabled_rules:
+  - line_length
+  - file_length
+  - function_parameter_count
