@@ -1,3 +1,5 @@
+line_length: 120
+
 excluded:
   - Carthage
   - SPM
@@ -11,7 +13,6 @@ opt_in_rules:
 disabled_rules:
   - type_name
   - identifier_name
-  - line_length
   - file_length
   - type_body_length
   - function_parameter_count
