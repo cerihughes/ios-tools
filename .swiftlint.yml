@@ -9,6 +9,7 @@ opt_in_rules:
   - empty_count
   - anyobject_protocol
   - collection_alignment
+  - implicit_return
 
 disabled_rules:
   - type_name
